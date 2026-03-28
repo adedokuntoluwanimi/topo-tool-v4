@@ -1,3 +1,0 @@
-"""
-Gaia Geophysics Backend Application
-"""
